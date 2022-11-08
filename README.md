@@ -8,4 +8,4 @@ https://pygame-zero.readthedocs.io/en/latest/installation.html
 
 ## Screenshot
 
-! [] (https://github.com/nadijaredzic/coin-collecter/blob/master/images/screenshot.png)
+![](/images/screenshot.png)
